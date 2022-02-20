@@ -1,0 +1,15 @@
+﻿  Date.cpp
+c:\users\kevvy\desktop\milestone1\date.cpp(154): error C2678: binary '<': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  e:\visual studio\vc\include\system_error(436): note: could be 'bool std::operator <(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\visual studio\vc\include\system_error(427): note: or       'bool std::operator <(const std::error_code &,const std::error_code &) noexcept'
+  c:\users\kevvy\desktop\milestone1\date.cpp(154): note: while trying to match the argument list '(std::istream, int)'
+c:\users\kevvy\desktop\milestone1\date.cpp(154): error C2678: binary '>': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  c:\users\kevvy\desktop\milestone1\date.cpp(154): note: could be 'built-in C++ operator>(bool, int)'
+  c:\users\kevvy\desktop\milestone1\date.cpp(154): note: while trying to match the argument list '(std::istream, int)'
+c:\users\kevvy\desktop\milestone1\date.cpp(173): error C2678: binary '<': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  e:\visual studio\vc\include\system_error(436): note: could be 'bool std::operator <(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\visual studio\vc\include\system_error(427): note: or       'bool std::operator <(const std::error_code &,const std::error_code &) noexcept'
+  c:\users\kevvy\desktop\milestone1\date.cpp(173): note: while trying to match the argument list '(std::istream, int)'
+c:\users\kevvy\desktop\milestone1\date.cpp(173): error C2678: binary '>': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  c:\users\kevvy\desktop\milestone1\date.cpp(173): note: could be 'built-in C++ operator>(bool, int)'
+  c:\users\kevvy\desktop\milestone1\date.cpp(173): note: while trying to match the argument list '(std::istream, int)'
